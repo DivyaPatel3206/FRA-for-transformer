@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+h5py
+tensorflow>=2.9
+scikit-learn
+fastapi
+uvicorn[standard]
+xmltodict
+matplotlib
+python-multipart
+joblib
